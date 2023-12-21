@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace EvaluationSampleCode.UnitsTests
 {
     [TestClass]
-    internal class MathOperationsTest
+    public class MathOperationsTest
     {
         [TestMethod]
         public void Add_ShouldReturnSumOfTwoNumbers()

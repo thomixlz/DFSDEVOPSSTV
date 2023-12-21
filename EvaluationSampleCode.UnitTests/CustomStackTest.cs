@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace EvaluationSampleCode.UnitsTests
 {
     [TestClass]
-    internal class CustomStackTest
+    public class CustomStackTest
     {
         [TestMethod]
         public void Push_ShouldAddValueToStack()

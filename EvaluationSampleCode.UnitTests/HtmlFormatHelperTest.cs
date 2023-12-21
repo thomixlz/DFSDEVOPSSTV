@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace EvaluationSampleCode.UnitsTests
 {
     [TestClass]
-    internal class HtmlFormatHelperTest
+    public class HtmlFormatHelperTest
     {
         [TestMethod]
         public void GetBoldFormat_ShouldEncloseStringWithBoldTags()
